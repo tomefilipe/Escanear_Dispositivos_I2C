@@ -1,2 +1,2 @@
 # Escanear_Dispositivos_I2C
- AADF
+ Escanea os dispositivos conectados na porta I2C e mostra os endereços de cada um.
